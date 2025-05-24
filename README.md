@@ -46,7 +46,7 @@ python3 training.py
 
 This script is used to train a gesture classification model.
 
-### Training Dataset
+### Running Main Program
 ```bash
 python3 main.py
 ```
